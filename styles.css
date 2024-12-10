@@ -1,0 +1,30 @@
+.box {
+  /* box-sizing: border-box; */
+  border: solid black;
+  /* display: inline-block; */
+  background-color: aqua;
+  margin-right: 25px;
+  width: 200px;
+}
+.box2 {
+  border: solid black;
+  box-sizing: border-box;
+  max-width: 200px;
+  text-align: center;
+  background-color: rgba(252, 211, 136, 0.993);
+}
+h3 {
+  text-align: center;
+}
+body {
+  background-color: bisque;
+}
+img {
+  width: 200px;
+}
+.container {
+  display: flex;
+}
+h1 {
+  color: blueviolet;
+}
